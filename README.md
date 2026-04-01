@@ -13,4 +13,4 @@ This project documents the complete process of game development using C#, coveri
 # ⚠️ Important Notice
 Due to GitHub's PDF preview limitations, some content may not display fully in the online viewer.
 
-**Please download the PDF file to view the complete, unaltered content:**
+**Please download the PDF file to view the complete, unaltered content.**
